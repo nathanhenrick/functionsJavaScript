@@ -82,4 +82,4 @@ const people = [
   { id: 72, name: "Maurício", age: 52, group: "admin" },
 ];
 const filterUsers = people.filter((person => person.name.includes("th")));
-console.log(filterUsers);
+// console.log(filterUsers);
